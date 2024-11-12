@@ -10,3 +10,15 @@
 1. [Lab 08](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A8.pdf): Implement Decision Tree Classifier using Lending Club Data
 1. [Lab 09](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Classifier using Lending Club Data
 1. [Lab 10](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
+
+
+1. [Lab 01 Part-1](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_1.ipynb)
+1. [Lab 01 Part-2](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_2.ipynb)
+1. [Lab 01 Part-3](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_3.ipynb)
+2. [Lab 02 Part-1](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-1.ipynb)
+2. [Lab 02 Part-2](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-2.ipynb)
+2. [Lab 02 Part-3](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-3.ipynb)
+3. [Lab 03](https://github.com/2303a51852/AIML1852/blob/main/Lab03_AIML.ipynb)
+4. [Lab 04](https://github.com/2303a51852/AIML1852/blob/main/Lab04_AIML.ipynb)
+5. [Lab 05](https://github.com/2303a51852/AIML1852/blob/main/Lab05_AIML.ipynb)
+6. [Lab 06](https://github.com/2303a51852/AIML1852/blob/main/Lab06_AIML.ipynb)
