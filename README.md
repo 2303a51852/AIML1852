@@ -13,13 +13,13 @@
 
 
 
-1.1. [Lab 01 Part-1](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_1.ipynb)
-1.2. [Lab 01 Part-2](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_2.ipynb)
-1.3. [Lab 01 Part-3](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_3.ipynb)
-2.1. [Lab 02 Part-1](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-1.ipynb)
-2.2. [Lab 02 Part-2](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-2.ipynb)
-2.3. [Lab 02 Part-3](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-3.ipynb)
-3. [Lab 03](https://github.com/2303a51852/AIML1852/blob/main/Lab03_AIML.ipynb)
-4. [Lab 04](https://github.com/2303a51852/AIML1852/blob/main/Lab04_AIML.ipynb)
-5. [Lab 05](https://github.com/2303a51852/AIML1852/blob/main/Lab05_AIML.ipynb)
-6. [Lab 06](https://github.com/2303a51852/AIML1852/blob/main/Lab06_AIML.ipynb)
+1.1. [Lab 01 Part-1](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_1.ipynb)<br>
+1.2. [Lab 01 Part-2](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_2.ipynb)<br>
+1.3. [Lab 01 Part-3](https://github.com/2303a51852/AIML1852/blob/main/Lab01_sol_3.ipynb)<br>
+2.1. [Lab 02 Part-1](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-1.ipynb)<br>
+2.2. [Lab 02 Part-2](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-2.ipynb)<br>
+2.3. [Lab 02 Part-3](https://github.com/2303a51852/AIML1852/blob/main/Lab02_Part-3.ipynb)<br>
+3. [Lab 03](https://github.com/2303a51852/AIML1852/blob/main/Lab03_AIML.ipynb)<br>
+4. [Lab 04](https://github.com/2303a51852/AIML1852/blob/main/Lab04_AIML.ipynb)<br>
+5. [Lab 05](https://github.com/2303a51852/AIML1852/blob/main/Lab05_AIML.ipynb)<br>
+6. [Lab 06](https://github.com/2303a51852/AIML1852/blob/main/Lab06_AIML.ipynb)<br>
