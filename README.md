@@ -1,4 +1,5 @@
 # AIML1852
+### Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
 
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
 2. [Lab 02](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
@@ -12,6 +13,7 @@
 10. [Lab 10](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
 
 
+## Lab Code Notebooks
 
 1. [Lab 01](https://github.com/2303a51852/AIML1852/blob/main/Lab01_AIML.ipynb)<br>
 2. [Lab 02](https://github.com/2303a51852/AIML1852/blob/main/Lab02_AIML.ipynb)<br>
